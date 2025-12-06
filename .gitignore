@@ -1,0 +1,6 @@
+.vscode
+.hypothesis
+.pytest_cache
+
+~$*.docx
+.DS_Store
